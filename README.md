@@ -1,6 +1,8 @@
 # Custom Nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI): CLIPSeg and CombineSegMasks
 ## This repository contains two custom nodes for ComfyUI that utilize the [CLIPSeg model](https://huggingface.co/docs/transformers/main/en/model_doc/clipseg) to generate masks for image inpainting tasks based on text prompts.
 
+fork
+https://github.com/time-river/ComfyUI-CLIPSeg
 
 ### 1. CLIPSeg
 The CLIPSeg node generates a binary mask for a given input image and text prompt.
